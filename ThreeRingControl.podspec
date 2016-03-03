@@ -53,7 +53,7 @@ s.homepage     = "http://raywenderlich.com"
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   
 
-  s.source       = { :git => "https://github.com/Davidps1/ThreeRingControl.git", :tag => "0.0.1" }
+  s.source       = { :git => "http://EXAMPLE/ThreeRingControl.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
